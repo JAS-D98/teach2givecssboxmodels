@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CSS BOX MODELS](#css-box-models)
+  - [What is a CSS box model?](#what-is-a-css-box-model)
+  - [Elements of a CSS box model](#elements-of-a-css-box-model)
+    - [Let's Review each part / component](#lets-review-each-part--component)
+  - [What can be placed in a box model?](#what-can-be-placed-in-a-box-model)
+    - [Overflow Properties](#overflow-properties)
+  - [Conclusion](#conclusion)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # CSS BOX MODELS
 
 ## What is a CSS box model?
